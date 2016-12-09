@@ -6,4 +6,4 @@ These are my solutions for all of the problems that were given. A lot of them mi
 
 Enjoy!
 
-*12/8/16 Update: *16 stars awarded so far and I've gotten 100% of them!
+**12/8/16 Update:** 16 stars awarded so far and I've gotten 100% of them!
