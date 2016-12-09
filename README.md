@@ -5,3 +5,5 @@ Advent Of Code (adventofcode.com) is an online challenge that takes place in Dec
 These are my solutions for all of the problems that were given. A lot of them might be "easy" solutions, but honestly, I don't care as I am writing this going into Day 8, and when it is time to worry about efficiency, I will.
 
 Enjoy!
+
+*12/8/16 Update: *16 stars awarded so far and I've gotten 100% of them!
