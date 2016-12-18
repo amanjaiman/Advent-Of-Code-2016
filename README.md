@@ -7,3 +7,6 @@ These are my solutions for all of the problems that were given. A lot of them mi
 Enjoy!
 
 **12/8/16 Update:** 16 stars awarded so far and I've gotten 100% of them!
+**12/18/16 Update:** 31 stars awarded so far.. about to be 32 (100%)!
+
+Note: I didn't have code for Day 11 because I did it on paper.
